@@ -20,16 +20,17 @@ h2 {
 }
 
 .btn {
-	color: #faf3bc;
-	background: #4fb69f url('img/texture.png') no-repeat right top;
+	color: black;
+	background: #D7E1E1; url('img/texture.png') no-repeat right top;
 	padding: 10px 20px;
 	margin: 50px 0px;
 	border-radius: 25px;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 .btn:hover {
-	background-color: #4cc4a7;
+	background-color: #D7EFFF;
 }
 
 ul.nav {
