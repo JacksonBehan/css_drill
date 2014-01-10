@@ -1,6 +1,6 @@
 body {
-	font-family: 'Nunito', sans-serif;
-	color: #faf3bc;
+	font-family: 'Duru Sans', sans-serif;
+	color: #D7E1E1;
 	background: black url('bg-img/bg.jpg') repeat;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	font-size: 1.500em;
-	color: #b4c34f;
+	color: #999966;
 }
 
 .btn {
@@ -50,6 +50,7 @@ ul.nav li a{
 #intro {
 	margin: 50px 0 75px 0;
 }
+
 
 #movies img {
 	border: 8px solid #faf3bc;
