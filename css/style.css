@@ -22,8 +22,8 @@ h2 {
 .btn {
 	color: #faf3bc;
 	background: #4fb69f url('img/texture.png') no-repeat right top;
-	padding: 15px 30px;
-	margin: 40px 0px;
+	padding: 10px 20px;
+	margin: 50px 0px;
 	border-radius: 25px;
 	text-transform: uppercase;
 }
@@ -33,7 +33,7 @@ h2 {
 }
 
 ul.nav {
-	margin: 120px 0 0 0;
+	margin: 120px 50px 0 0;
 	list-style: none;
 	float: right;
 }
@@ -53,7 +53,7 @@ ul.nav li a{
 
 #movies img {
 	border: 8px solid #faf3bc;
-	margin: 0 0 20px 0;
+	margin: 0 0 20px 25px;
 }
 
 #nfl img {
