@@ -5,9 +5,9 @@ body {
 }
 
 a {
-	color: #4fb69f;
 	text-decoration: none;
 }
+
 
 h1 {
 	font-size: 1.750em;
@@ -47,6 +47,11 @@ ul.nav li {
 ul.nav li a{
 	color: #faf3bc;
 }
+
+ul.nav li a:hover {
+	color: white;
+}
+
 
 #intro {
 	margin: 50px 0 75px 0;
