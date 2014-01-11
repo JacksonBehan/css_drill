@@ -75,11 +75,12 @@ ul.nav li a:hover {
 
 #movies img {
 	border: 8px solid black;
-	margin: 0 0 20px 25px;
+	margin: 0 0 5px 25px;
 }
 
 #nfl img {
 	border: 8px solid black;
+	margin: 0 0 5px 0;
 
 }
 
