@@ -52,6 +52,16 @@ ul.nav li a{
 	margin: 50px 0 75px 0;
 }
 
+#bear {
+	height: 380px;
+	width: 320px;
+	border: 8px solid #faf3bc;
+}
+
+#me {
+	border: 8px solid #faf3bc;
+}
+
 
 #movies img {
 	border: 8px solid #faf3bc;
